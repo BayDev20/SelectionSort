@@ -1,4 +1,4 @@
-# Student Management System
+# Student Sort System
 
 This is a simple Java program for managing student records. It allows you to store student objects in an `ArrayList`, sort them by name or roll number using custom comparators, and display the sorted list.
 
